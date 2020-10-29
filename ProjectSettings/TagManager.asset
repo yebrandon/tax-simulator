@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - door
+  - noDestroy
+  - econ
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 1237294265
+    locked: 0
+  - name: buildings
+    uniqueID: 1502124703
+    locked: 0
+  - name: Floor
+    uniqueID: 763763607
+    locked: 0
+  - name: Buildings
+    uniqueID: 613955093
+    locked: 0
+  - name: Roof
+    uniqueID: 3954226399
+    locked: 0
+  - name: Player
+    uniqueID: 1549029375
+    locked: 0
+  - name: gui
+    uniqueID: 1956064719
+    locked: 0

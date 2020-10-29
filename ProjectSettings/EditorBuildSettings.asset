@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/title_scene.unity
+    guid: 7acd7f26d8ba6784dbabc31c93467a43
+  - enabled: 1
+    path: Assets/Scenes/intro_scene.unity
+    guid: 76e2b575f6271fb46af2c8f94425e89d
+  - enabled: 1
+    path: Assets/Scenes/controls_scene.unity
+    guid: 5c371a87dcde6d34d82e6f580eafd709
+  - enabled: 1
+    path: Assets/Scenes/home_scene.unity
+    guid: 8d9fe840fc81cd142b60257c125cb450
+  - enabled: 1
+    path: Assets/Scenes/party_scene.unity
+    guid: bd9f12f67865daf41895255bc1987ebe
+  - enabled: 1
+    path: Assets/Scenes/tax_advisor_scene.unity
+    guid: b62998acea5c67a448013d5a88261586
+  - enabled: 1
+    path: Assets/Scenes/work_scene.unity
+    guid: 11c292290ca86e544834a888d48bb918
+  - enabled: 1
+    path: Assets/Scenes/real_estate_scene.unity
+    guid: 7835cd09a87a224478abe91950298963
+  - enabled: 1
+    path: Assets/Scenes/end_scene.unity
+    guid: 3bc5a9467d19d2245a62530609d6c1e9
+  - enabled: 1
+    path: Assets/Scenes/recap_scene.unity
+    guid: 4004aa7acf296754ea147ad9fe50f971
+  - enabled: 1
+    path: Assets/Scenes/tax_info_scene.unity
+    guid: 092377298a44b38419bfd393629a010e
+  - enabled: 1
+    path: Assets/Scenes/black.unity
+    guid: 66356891958396448a03715a7d2b4ba7
+  m_configObjects: {}
