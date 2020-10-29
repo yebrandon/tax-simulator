@@ -29,6 +29,6 @@ Visit https://yebrandon.com/tax-simulator-2019/
 
 ## Learn More
 
-https://devpost.com/software/vibe-care
+https://devpost.com/software/tax-simulator-2019
 </br>
-https://yebrandon.com/projects
+https://yebrandon.com/#projects
